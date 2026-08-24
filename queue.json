@@ -6,5 +6,13 @@
   "text": "Pixel-art Nine Men's Morris where every closed mill triggers an execution. This one is the mage's fireball, mid-flight in the Ember Forge arena.",
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-b1.png",
   "created": "2026-08-24T10:30:00Z"
+ },
+ {
+  "id": "a1",
+  "kind": "A",
+  "title": "The polymorph execution \u2014 the loser hops off the board and lives at the pond forever",
+  "text": "One of 33 execution animations in Millfall, a pixel-art Nine Men's Morris. Close a mill and your mage does the rest \u2014 the arenas remember every fallen piece.",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-a1.gif",
+  "created": "2026-08-24T12:00:00Z"
  }
 ]
