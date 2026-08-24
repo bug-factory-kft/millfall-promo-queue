@@ -1,1 +1,10 @@
-[]
+[
+ {
+  "id": "b1",
+  "kind": "B",
+  "title": "The fireball execution \u2014 one of 33 ways a mill ends in Millfall",
+  "text": "Pixel-art Nine Men's Morris where every closed mill triggers an execution. This one is the mage's fireball, mid-flight in the Ember Forge arena.",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-b1.png",
+  "created": "2026-08-24T10:30:00Z"
+ }
+]
