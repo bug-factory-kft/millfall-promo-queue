@@ -1,1 +1,1 @@
-[{"id":"v1","title":"Match Chronicle Ep. 1 — a full Millfall match with commentary","text":"13 executions in the Moss Grove. Both sides: the game's own AI.","video":"https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/vid-v1.mp4"}]
+[]
