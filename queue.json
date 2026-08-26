@@ -1,13 +1,5 @@
 [
  {
-  "id": "a1",
-  "kind": "A",
-  "title": "The polymorph execution — the loser hops off the board and lives at the pond forever",
-  "text": "One of 33 execution animations in Millfall, a pixel-art Nine Men's Morris. Close a mill and your mage does the rest — the arenas remember every fallen piece.",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-a1.gif",
-  "created": "2026-08-24T12:00:00Z"
- },
- {
   "id": "20260826-c49d4a",
   "kind": "W",
   "title": "MISSING - one nine men's morris piece, last seen shrinking. The executions in my pixel art board game do not always leave a body.",
@@ -15,5 +7,13 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260826-c49d4a.png",
   "flair": "",
   "created": "2026-08-26T08:47:23+00:00"
+ },
+ {
+  "id": "v1",
+  "kind": "V",
+  "title": "Match Chronicle Ep. 1 \u2014 a full Millfall match with commentary: thirteen executions in the Moss Grove",
+  "text": "Dawn (level 3 AI) against Dusk (level 2 AI). Thirteen executions, a pond that keeps reaching out, and an endgame won from the air by three flying spirits, 7-6. Both sides were played by the game's own AI; the commentary is AI narration.",
+  "video": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/vid-v1.mp4",
+  "created": "2026-08-24T13:30:00Z"
  }
 ]
