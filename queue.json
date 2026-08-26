@@ -1,18 +1,19 @@
 [
  {
-  "id": "b1",
-  "kind": "B",
-  "title": "The fireball execution \u2014 one of 33 ways a mill ends in Millfall",
-  "text": "Pixel-art Nine Men's Morris where every closed mill triggers an execution. This one is the mage's fireball, mid-flight in the Ember Forge arena.",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-b1.png",
-  "created": "2026-08-24T10:30:00Z"
- },
- {
   "id": "a1",
   "kind": "A",
-  "title": "The polymorph execution \u2014 the loser hops off the board and lives at the pond forever",
-  "text": "One of 33 execution animations in Millfall, a pixel-art Nine Men's Morris. Close a mill and your mage does the rest \u2014 the arenas remember every fallen piece.",
+  "title": "The polymorph execution — the loser hops off the board and lives at the pond forever",
+  "text": "One of 33 execution animations in Millfall, a pixel-art Nine Men's Morris. Close a mill and your mage does the rest — the arenas remember every fallen piece.",
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-a1.gif",
   "created": "2026-08-24T12:00:00Z"
+ },
+ {
+  "id": "20260826-c49d4a",
+  "kind": "W",
+  "title": "MISSING - one nine men's morris piece, last seen shrinking. The executions in my pixel art board game do not always leave a body.",
+  "text": "Millfall is nine men's morris where closing a mill lets one of your pieces execute one of theirs, and shrink is one of the 33 execution techniques. ULFRIC was standing on the inner ring in Moss Grove when Dusk closed a mill, and the four sightings on the poster are frames from that execution. Every frame here is rendered straight out of the game. The notice board is not.",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260826-c49d4a.png",
+  "flair": "",
+  "created": "2026-08-26T08:47:23+00:00"
  }
 ]
