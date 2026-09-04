@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260831-6e749f",
-  "kind": "E",
-  "title": "Shakespeare complained about a muddy nine men's morris board in 1595 - Millfall is that same board game in pixel art, where closing a mill executes a piece",
-  "text": "In A Midsummer Night's Dream, Titania complains that \"the nine men's morris is fill'd up with mud\" - the village board rained out, around 1595. The mill game picked up a name almost everywhere it landed: merels in England, Mühle in Germany, malom in Hungary, morabaraba in southern Africa. Millfall is that classic board game reimagined in pixel art - same nine pieces, same mills, same flying endgame - except closing a mill doesn't just remove an enemy piece, it executes it, one of 33 death animations. The card above was rendered in-engine in the Frost Hollow arena.",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260831-6e749f.png",
-  "flair": "",
-  "created": "2026-08-31T19:00:02+00:00"
- },
- {
   "id": "20260901-3b5991",
   "kind": "G",
   "title": "Millfall has a witness raven that calls out every execution in this nine men's morris indie game - poke it six times in four seconds and it stops narrating to complain about you",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260901-3b5991.gif",
   "flair": "",
   "created": "2026-09-01T14:19:33+00:00"
+ },
+ {
+  "id": "20260904-01ad91",
+  "kind": "W",
+  "title": "Every piece you execute in Millfall's Star Shrine becomes a star, and the sky keeps them between matches - after two AI matches it was holding 16 names, and hovering it tells you who died last. Nine men's morris as abstract strategy with a memory.",
+  "text": "Millfall is a pixel art take on nine men's morris - the mill game also known as merels, Muhle, malom or morabaraba - where closing a mill executes an enemy piece with one of 33 endings. Each of the four arenas remembers its dead in its own way: the Star Shrine turns them into stars, Frost Hollow lines them up as statues, Moss Grove seats them at the pond as frogs, and Ember Forge stacks the scrap. The roll in the image is from two real AI-vs-AI matches played back to back in the same arena - the names and the endings are the game's own, not written for the post.",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260904-01ad91.png",
+  "flair": "",
+  "created": "2026-09-04T15:26:09+00:00"
  }
 ]
