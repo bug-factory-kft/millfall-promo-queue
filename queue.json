@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260901-3b5991",
-  "kind": "G",
-  "title": "Millfall has a witness raven that calls out every execution in this nine men's morris indie game - poke it six times in four seconds and it stops narrating to complain about you",
-  "text": "Every arena has the same witness: a raven on one perch, watching the whole battle and naming each execution as it happens. It wears a different coat in every arena - this is the Ember Forge, so it hisses instead of cawing. The complaint is a real reaction in the game, not a mock-up: six pokes inside four seconds and it stops narrating to file one. Recorded in-engine. Nine men's morris as an abstract strategy PC game in pixel art.",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260901-3b5991.gif",
-  "flair": "",
-  "created": "2026-09-01T14:19:33+00:00"
- },
- {
   "id": "20260904-01ad91",
   "kind": "W",
   "title": "Every piece you execute in Millfall's Star Shrine becomes a star, and the sky keeps them between matches - after two AI matches it was holding 16 names, and hovering it tells you who died last. Nine men's morris as abstract strategy with a memory.",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260904-01ad91.png",
   "flair": "",
   "created": "2026-09-04T15:26:09+00:00"
+ },
+ {
+  "id": "20260906-c837a6",
+  "kind": "spotlight",
+  "title": "The board people have carved for 2,000 years: a short history of Nine Men's Morris (4-minute video)",
+  "text": "Three squares, one inside the other, twenty-four points. People have carved this pattern for at least two thousand years: an Egyptian temple roof (with a disputed date), Roman steps, the Gokstad Viking ship, the cloister benches of English cathedrals, a muddy village green in Shakespeare. We made a short video about where the name comes from, the rules, a Chinese cousin called fangqi, why a game a computer solved in 1996 is still worth playing, and the game we built from it, Millfall.\n\nWatch: https://youtu.be/07tmcBw4GQ4\n\nChapters: 00:00 Twenty-four points · 00:24 Where the name comes from · 00:42 Kurna, Egypt · 01:09 Rome: Ovid · 01:33 The Gokstad ship · 01:44 The Middle Ages · 02:09 Shakespeare · 02:26 Fangqi · 02:42 The rules · 03:16 1996, a solved game · 03:45 Millfall\n\nHistorical scenes are AI-generated pixel art (PixelLab); narration is synthetic (Kokoro); gameplay is from Millfall. Main source: Wikipedia, Nine men's morris.",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260906-c837a6.png",
+  "flair": "",
+  "created": "2026-09-06T15:35:03+00:00"
  }
 ]
