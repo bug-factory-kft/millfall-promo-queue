@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260906-c837a6",
-  "kind": "spotlight",
-  "title": "The board people have carved for 2,000 years: a short history of Nine Men's Morris (4-minute video)",
-  "text": "Three squares, one inside the other, twenty-four points. People have carved this pattern for at least two thousand years: an Egyptian temple roof (with a disputed date), Roman steps, the Gokstad Viking ship, the cloister benches of English cathedrals, a muddy village green in Shakespeare. We made a short video about where the name comes from, the rules, a Chinese cousin called fangqi, why a game a computer solved in 1996 is still worth playing, and the game we built from it, Millfall.\n\nWatch: https://youtu.be/07tmcBw4GQ4\n\nChapters: 00:00 Twenty-four points · 00:24 Where the name comes from · 00:42 Kurna, Egypt · 01:09 Rome: Ovid · 01:33 The Gokstad ship · 01:44 The Middle Ages · 02:09 Shakespeare · 02:26 Fangqi · 02:42 The rules · 03:16 1996, a solved game · 03:45 Millfall\n\nHistorical scenes are AI-generated pixel art (PixelLab); narration is synthetic (Kokoro); gameplay is from Millfall. Main source: Wikipedia, Nine men's morris.",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260906-c837a6.png",
-  "flair": "",
-  "created": "2026-09-06T15:35:03+00:00"
- },
- {
   "id": "20260910-9f2a5e",
   "kind": "promo",
   "title": "Ascended — the Moonbeam execution at the Star Shrine (one of 33)",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260910-9f2a5e.gif",
   "flair": "",
   "created": "2026-09-10T10:03:08+00:00"
+ },
+ {
+  "id": "20260922-29b4cc",
+  "kind": "spotlight",
+  "title": "Meteor vs Black Hole vs Quake - three executions from one real Moss Grove match",
+  "text": "Three executions from a single AI-vs-AI match in the Moss Grove: Aldric's quake, then the mage Osmund's meteor and his black hole (the kill that ended the match, Dawn won on count). Every mill and execution here is the engine's own; both sides are played by the game's AI. Millfall is Nine Men's Morris where every mill is an execution: 33 executions, 4 arenas, fully offline. Microsoft Store: https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260922-29b4cc.gif",
+  "flair": "",
+  "created": "2026-09-22T08:23:03+00:00"
  }
 ]
