@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260910-9f2a5e",
-  "kind": "promo",
-  "title": "Ascended — the Moonbeam execution at the Star Shrine (one of 33)",
-  "text": "Close a mill and your piece walks over and executes the enemy. This one is the Star Shrine's Moonbeam: the beam takes the victim straight up. One of 33 executions across 4 arenas, recorded in-engine, no cuts.\n\nMillfall on the Microsoft Store: https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd\nWebsite & trailer: https://millfall.bugfactory.hu",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260910-9f2a5e.gif",
-  "flair": "",
-  "created": "2026-09-10T10:03:08+00:00"
- },
- {
   "id": "20260922-29b4cc",
   "kind": "spotlight",
   "title": "Meteor vs Black Hole vs Quake - three executions from one real Moss Grove match",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260922-29b4cc.gif",
   "flair": "",
   "created": "2026-09-22T08:23:03+00:00"
+ },
+ {
+  "id": "20260929-a03ed5",
+  "kind": "promo",
+  "title": "How to play Nine Men's Morris in 90 seconds",
+  "text": "The whole game in about 90 seconds, shown on Millfall's own board: placing, moving, flying, what a mill is, and how a match ends. Every scene is a real match; both sides are played by the game's own AI.\n\nVideo: https://youtu.be/BR3qphgTVRY\n\nMillfall on the Microsoft Store (Windows PC): https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd\n\nAI-generated voice. Gameplay is real.",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260929-a03ed5.jpg",
+  "flair": "",
+  "created": "2026-09-29T08:37:22+00:00"
  }
 ]
