@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260922-29b4cc",
-  "kind": "spotlight",
-  "title": "Meteor vs Black Hole vs Quake - three executions from one real Moss Grove match",
-  "text": "Three executions from a single AI-vs-AI match in the Moss Grove: Aldric's quake, then the mage Osmund's meteor and his black hole (the kill that ended the match, Dawn won on count). Every mill and execution here is the engine's own; both sides are played by the game's AI. Millfall is Nine Men's Morris where every mill is an execution: 33 executions, 4 arenas, fully offline. Microsoft Store: https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260922-29b4cc.gif",
-  "flair": "",
-  "created": "2026-09-22T08:23:03+00:00"
- },
- {
   "id": "20260929-a03ed5",
   "kind": "promo",
   "title": "How to play Nine Men's Morris in 90 seconds",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260929-a03ed5.jpg",
   "flair": "",
   "created": "2026-09-29T08:37:22+00:00"
+ },
+ {
+  "id": "20261001-70ae87",
+  "kind": "promo",
+  "title": "Which death is slowest? Shrink, meteor or polymorph - three spells from one match, ranked",
+  "text": "Three spell executions from one AI-vs-AI match in the Moss Grove, ranked by how long the execution takes (measured in-engine): shrink, meteor, polymorph. Both sides are played by the game's own AI.\n\nVideo: https://youtu.be/4xbOiXbTJzU\n\nMillfall on the Microsoft Store (Windows PC): https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261001-70ae87.gif",
+  "flair": "",
+  "created": "2026-10-01T08:26:44+00:00"
  }
 ]
