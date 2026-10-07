@@ -1,14 +1,5 @@
 [
  {
-  "id": "20260929-a03ed5",
-  "kind": "promo",
-  "title": "How to play Nine Men's Morris in 90 seconds",
-  "text": "The whole game in about 90 seconds, shown on Millfall's own board: placing, moving, flying, what a mill is, and how a match ends. Every scene is a real match; both sides are played by the game's own AI.\n\nVideo: https://youtu.be/BR3qphgTVRY\n\nMillfall on the Microsoft Store (Windows PC): https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd\n\nAI-generated voice. Gameplay is real.",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20260929-a03ed5.jpg",
-  "flair": "",
-  "created": "2026-09-29T08:37:22+00:00"
- },
- {
   "id": "20261001-70ae87",
   "kind": "promo",
   "title": "Which death is slowest? Shrink, meteor or polymorph - three spells from one match, ranked",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261001-70ae87.gif",
   "flair": "",
   "created": "2026-10-01T08:26:44+00:00"
+ },
+ {
+  "id": "20261007-f489c5",
+  "kind": "promo",
+  "title": "Which unit can you take? The mill-protection rule, shown on a real Millfall match",
+  "text": "A rule that decides a lot of games: when you close a mill, you can't take an enemy unit that is standing in a closed mill of its own. You must take one outside a mill. The only exception: if every enemy unit stands in a mill, any of them can be taken.\n\nThe GIF is from a real Millfall match (Moss Grove): Dusk closes a mill, five of Dawn's seven units stand in two mills, so only two can be taken, and the engine's execution hits one of those two. Both sides are played by the game's own AI.\n\nMillfall on the Microsoft Store (Windows PC): https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261007-f489c5.gif",
+  "flair": "",
+  "created": "2026-10-07T06:48:02+00:00"
  }
 ]
