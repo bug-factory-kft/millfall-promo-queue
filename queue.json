@@ -1,14 +1,5 @@
 [
  {
-  "id": "20261007-f489c5",
-  "kind": "promo",
-  "title": "Which unit can you take? The mill-protection rule, shown on a real Millfall match",
-  "text": "A rule that decides a lot of games: when you close a mill, you can't take an enemy unit that is standing in a closed mill of its own. You must take one outside a mill. The only exception: if every enemy unit stands in a mill, any of them can be taken.\n\nThe GIF is from a real Millfall match (Moss Grove): Dusk closes a mill, five of Dawn's seven units stand in two mills, so only two can be taken, and the engine's execution hits one of those two. Both sides are played by the game's own AI.\n\nMillfall on the Microsoft Store (Windows PC): https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261007-f489c5.gif",
-  "flair": "",
-  "created": "2026-10-07T06:48:02+00:00"
- },
- {
   "id": "20261011-9f9c0f",
   "kind": "promo",
   "title": "He fell up: the gravity execution in Millfall, from a real AI vs AI match",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261011-9f9c0f.gif",
   "flair": "",
   "created": "2026-10-11T08:41:22+00:00"
+ },
+ {
+  "id": "20261012-6b7e92",
+  "kind": "promo",
+  "title": "Nine Men's Morris flying rule: down to three pieces, Ulfstan flies corner to corner for the last mill (real AI vs AI match in Millfall)",
+  "text": "In Millfall (pixel-art Nine Men's Morris), closing a mill means your unit executes an enemy unit. Once a side is down to three pieces it can fly: it may move a piece to any empty point, and the game shows flying units as ghosts. This is the real end of a match in the Moss Grove, both sides played by the game's own AI: Malgrim flies in to close a mill for Dusk, then Ulfstan, also down to three, flies from one corner of the board to the other, closes the last mill and wins it for Dawn. Recorded in-engine.\n\nMillfall on the Microsoft Store (Windows PC): https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261012-6b7e92.gif",
+  "flair": "",
+  "created": "2026-10-12T08:30:26+00:00"
  }
 ]
