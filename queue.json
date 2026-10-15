@@ -1,14 +1,5 @@
 [
  {
-  "id": "20261011-9f9c0f",
-  "kind": "promo",
-  "title": "He fell up: the gravity execution in Millfall, from a real AI vs AI match",
-  "text": "In Millfall (pixel-art Nine Men's Morris), closing a mill means your unit executes an enemy unit, and warriors and mages each have their own executions. This one is Gravity: in a Star Shrine match, the Dawn mage Garbald places the third piece of a mill, and the Dusk unit Mormir lifts off, tumbles and falls up out of the picture. Both sides are played by the game's own AI; recorded in-engine.\n\nMillfall on the Microsoft Store (Windows PC): https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261011-9f9c0f.gif",
-  "flair": "",
-  "created": "2026-10-11T08:41:22+00:00"
- },
- {
   "id": "20261012-6b7e92",
   "kind": "promo",
   "title": "Nine Men's Morris flying rule: down to three pieces, Ulfstan flies corner to corner for the last mill (real AI vs AI match in Millfall)",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261012-6b7e92.gif",
   "flair": "",
   "created": "2026-10-12T08:30:26+00:00"
+ },
+ {
+  "id": "20261015-396009",
+  "kind": "promo",
+  "title": "Death by bonk: one of the warrior's executions in Millfall",
+  "text": "In Millfall (pixel-art Nine Men's Morris), closing a mill means your unit executes an enemy unit, and warriors and mages each have their own executions. This one is Bonk: a Dusk warrior walks over and knocks a Dawn unit on the head with a sword pommel, stars circle, and the unit sways and keels over. Recorded in-engine in the Ember Forge arena.\n\nMillfall on the Microsoft Store (Windows PC): https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261015-396009.gif",
+  "flair": "",
+  "created": "2026-10-15T08:30:18+00:00"
  }
 ]
