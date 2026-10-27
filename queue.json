@@ -1,14 +1,5 @@
 [
  {
-  "id": "20261012-6b7e92",
-  "kind": "promo",
-  "title": "Nine Men's Morris flying rule: down to three pieces, Ulfstan flies corner to corner for the last mill (real AI vs AI match in Millfall)",
-  "text": "In Millfall (pixel-art Nine Men's Morris), closing a mill means your unit executes an enemy unit. Once a side is down to three pieces it can fly: it may move a piece to any empty point, and the game shows flying units as ghosts. This is the real end of a match in the Moss Grove, both sides played by the game's own AI: Malgrim flies in to close a mill for Dusk, then Ulfstan, also down to three, flies from one corner of the board to the other, closes the last mill and wins it for Dawn. Recorded in-engine.\n\nMillfall on the Microsoft Store (Windows PC): https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd",
-  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261012-6b7e92.gif",
-  "flair": "",
-  "created": "2026-10-12T08:30:26+00:00"
- },
- {
   "id": "20261015-396009",
   "kind": "promo",
   "title": "Death by bonk: one of the warrior's executions in Millfall",
@@ -16,5 +7,14 @@
   "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261015-396009.gif",
   "flair": "",
   "created": "2026-10-15T08:30:18+00:00"
+ },
+ {
+  "id": "20261027-c21c77",
+  "kind": "promo",
+  "title": "Vexvex closed four mills, more than anyone, and still lost: Wingar hadn't moved since his first kill, then one move ended the war (real AI vs AI match in Millfall)",
+  "text": "In Millfall (pixel-art Nine Men's Morris), closing a mill means your unit executes an enemy unit. This is a real match in the Ember Forge, both sides played by the game's own AI. Vexvex, a warrior of Dusk, closed four mills, more than any other unit in the match; the last two came after Dusk was down to three units and could fly, and they brought it to three against three. Wingar of Dawn had drawn first blood and then stood on the same point for the rest of the war. His next move closed a mill, the game called a DEATHBLOW, and Dusk was down to two. Recorded in-engine; the narration and the two name tags are added for the video.\n\nMillfall on the Microsoft Store (Windows PC): https://apps.microsoft.com/detail/9NHQ64JTDQV2?cid=rd\n\nWe also used AI tools for this video.",
+  "image": "https://raw.githubusercontent.com/bug-factory-kft/millfall-promo-queue/main/img-20261027-c21c77.gif",
+  "flair": "",
+  "created": "2026-10-27T09:30:21+00:00"
  }
 ]
